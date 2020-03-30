@@ -55,3 +55,6 @@ setelah ditekan hapus maka tampilannya seperti dibawah ini :
 ![](Images/26.png)<br>
 Tampilan pada PHPMYADMIN
 ![](Images/27.png)<br>
+
+GAMBARAN ARSITEKTUR
+![](27.png)<br>
