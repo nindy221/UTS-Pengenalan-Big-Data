@@ -10,9 +10,8 @@ Pertama, menginstall XAMPP.  Apabila XAMPP sudah terdownload maka hidupkan “AP
 ![](Images/1.png)<br>
 Kedua, membuka browser dan mengetik localhost/phpmyadmin. Maka tampilannya seperti dibawah ini :
 ![](Images/2.png)<br>
- 
-3.	Ketiga, membuat database. Klik Basis data, maka tampilannya seperti dibawah ini :
- 
+Ketiga, membuat database. Klik Basis data, maka tampilannya seperti dibawah ini :
+![](Images/3.png)<br>
 4.	Keempat, membuat apa saja yang diperlukan dalam kolom untuk data barang tersebut.
  
  
