@@ -7,7 +7,7 @@
 a.	Menggunakan DBMS Mysql
 Membuat big data “Data Barang pada sebuah Minimarket”, dalam pengelolaannya maka harus bisa untuk membuat data baru, membaca data yang telah dibuat, mengedit data yang telah dibuat, dan menghapus data yang telah dibuat (menghapus data tersebut karena stock barang telah habis).
 1.	Pertama, menginstall XAMPP.  Apabila XAMPP sudah terdownload maka hidupkan “APACHE” dan “MYSQL”.
-
+![](Images/1.png)<br>
 2.	Kedua, membuka browser dan mengetik localhost/phpmyadmin. Maka tampilannya seperti dibawah ini :
  
  
