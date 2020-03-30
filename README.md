@@ -55,5 +55,5 @@ setelah ditekan hapus maka tampilannya seperti dibawah ini :
 Tampilan pada PHPMYADMIN
 ![](Images/27.png)<br>
 
-GAMBARAN ARSITEKTUR
+GAMBARAN ARSITEKTUR <br>
 Membuat big data “Data Barang pada sebuah Minimarket”, dalam pengelolaannya maka harus bisa untuk membuat data baru, membaca data yang telah dibuat, mengedit data yang telah dibuat, dan menghapus data yang telah dibuat (menghapus data tersebut karena stock barang telah habis).
