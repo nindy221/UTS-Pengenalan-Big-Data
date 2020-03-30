@@ -57,4 +57,4 @@ Tampilan pada PHPMYADMIN
 ![](Images/27.png)<br>
 
 GAMBARAN ARSITEKTUR
-![](27.png)<br>
+![](Images/28.png)<br>
