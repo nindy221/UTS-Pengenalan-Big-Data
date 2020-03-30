@@ -12,22 +12,19 @@ Kedua, membuka browser dan mengetik localhost/phpmyadmin. Maka tampilannya seper
 ![](Images/2.png)<br>
 Ketiga, membuat database. Klik Basis data, maka tampilannya seperti dibawah ini :
 ![](Images/3.png)<br>
-4.	Keempat, membuat apa saja yang diperlukan dalam kolom untuk data barang tersebut.
- 
- 
-5.	Kelima, setelah itu klik simpan/kirim untuk membuat tampilan pada kolom
- 
-6.	Keenam,  membuat nilai pada kolom
- 
+Keempat, membuat apa saja yang diperlukan dalam kolom untuk data barang tersebut.
+![](Images/4.png)<br>
+Kelima, setelah itu klik simpan/kirim untuk membuat tampilan pada kolom
+![](Images/5.png)<br>
+Keenam,  membuat nilai pada kolom
+![](Images/6.png)<br>
 Klik simpan/kirim, maka tampilannya seperti dibawah ini
- 
-7.	Membuat koneksi.php agar dapat terhubung denga database
- 
- 
-8.	Membuat index.php
- 
- 
-Maka tampilannya pada browser seperti dibawah ini 
+![](Images/7.png)<br>
+Membuat koneksi.php agar dapat terhubung denga database
+![](Images/8.png)<br>
+Membuat index.php
+![](Images/9.png)<br>
+ Maka tampilannya pada browser seperti dibawah ini 
 Localhost/uts/index.php
- 
+![](Images/10.png)<br>
 9.	
